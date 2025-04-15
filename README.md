@@ -2,7 +2,11 @@
 
 This repository is dedicated to learning and debugging Kubernetes. It is organized by Kubernetes components to help users quickly find relevant debugging information.
 
-## Components
+## Start Here 
+
+- [**What Happens When You Run kubectl Behind the Scenes**](what-happens-when-you-run-kubectl-behind-the-scene/README.md): A detailed explanation of the flow when executing kubectl commands, essential for effective debugging.
+
+## How to Debug
 
 - **API Server**: Debugging the Kubernetes API server.
 - **Scheduler**: Debugging the Kubernetes scheduler.
@@ -12,6 +16,8 @@ This repository is dedicated to learning and debugging Kubernetes. It is organiz
 - **Networking**: Debugging Kubernetes networking issues.
 - **Storage**: Debugging Kubernetes storage issues.
 - **Applications**: Debugging applications running on Kubernetes.
+
+
 
 ## How to Use
 

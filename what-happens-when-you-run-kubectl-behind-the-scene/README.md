@@ -178,4 +178,4 @@ With `kubectl apply --server-side`, the flow changes to:
 
 - [Kubernetes API Documentation](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.25/)
 - [kubectl Book](https://kubectl.docs.kubernetes.io/)
-- [Kubernetes Internals Architecture](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md)
+- [Kubernetes Internals Architecture](https://github.com/kubernetes/design-proposals-archive/blob/main/architecture/architecture.md)
